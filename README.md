@@ -14,7 +14,6 @@ This project aims to develop a deep learning model to classify the daily demand 
 - [Results](#results)
 - [Future Improvements](#future-improvements)
 - [Business Value](#business-value)
-- [Authors](#authors)
 
 ## Project Structure
 The project consists of the following files:
